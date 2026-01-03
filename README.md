@@ -2,10 +2,6 @@
 
 > A comprehensive approach to writing clean, maintainable, and scalable code.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
-
 ## Introduction
 
 **SOLID** is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin (also known as Uncle Bob). These principles establish practices that led to developing software with considerations for maintaining and extending as the project grows.
@@ -74,15 +70,6 @@ B. Abstractions should not depend on details. Details should depend on abstracti
  [View Code Examples](./DIP/)
 
 ---
-
-## Getting Started
-
-To explore the examples, clone this repository and navigate to the respective folders.
-
-```bash
-git clone https://github.com/TAIJULAMAN/SOLID-principles.git
-cd SOLID-principles
-```
 
 ## License
 
